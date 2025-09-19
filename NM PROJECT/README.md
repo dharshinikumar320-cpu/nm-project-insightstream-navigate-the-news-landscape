@@ -1,6 +1,6 @@
-# Getting Started with Create Kavya news
+# Getting Started with Create Illumina Sky News
 
-This project was bootstrapped with [Create Kavya News](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create Illumina Sky News News](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -41,7 +41,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-You can learn more in the [Create Kavya news documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more in the [Create Illumina Sky News documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
